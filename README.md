@@ -13,7 +13,7 @@ Cite the paper:
   publisher={Cold Spring Harbor Laboratory}
 }
 ```
-It includes Jupyter notebooks that demonstrate the process of goal-directed action selection with episodic memories and its relation to cognitive processes.
+This repo includes Jupyter notebooks that demonstrate the process of goal-directed action selection with episodic memories and its relation to cognitive processes.
 
 ---
 
