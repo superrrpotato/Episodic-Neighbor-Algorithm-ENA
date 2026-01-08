@@ -116,4 +116,4 @@ Running the notebooks in order reproduces all main results and plots presented i
 ## 7. Code Availability Statement
 
 All source code, notebooks, and instructions are available at:  
-https://github.com/superrrpotato/Episodic-memories-make-goal-directed-action-selection-context-aware-and-explainable
+https://github.com/superrrpotato/Episodic-Neighbor-Algorithm-ENA/tree/main
